@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [RedditDMBot](https://github.com/hamzaaitbrik/RedditDMBot), [OptimizedRedditAccountCreator](https://github.com/hamzaaitbrik/OptimizedRedditAccountCreator)<sup><i>private</i></sup> and [RedditScraper](https://github.com/hamzaaitbrik/RedditScraper)<sup><i>private</i></sup>
 
-- 📫 How to reach me **aitbrikhamza@gmail.com**
+- 📫 Reach me on email: **aitbrikhamza@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://discordapp.com/users/586210796766363689" target="_blank"><img src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=ffffff" target="_blank"></a>
