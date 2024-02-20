@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamzaaitbrik" alt="hamzaaitbrik" /></a> </p>
 
-- 🔭 I’m currently working on [RedditDMBot](https://github.com/hamzaaitbrik/RedditDMBot),[OptimizedRedditAccountCreator](https://github.com/hamzaaitbrik/OptimizedRedditAccountCreator)<sup><i>private</i></sup> and [RedditScraper](https://github.com/hamzaaitbrik/RedditScraper)<sup><i>private</i></sup>
+- 🔭 I’m currently working on [RedditDMBot](https://github.com/hamzaaitbrik/RedditDMBot), [OptimizedRedditAccountCreator](https://github.com/hamzaaitbrik/OptimizedRedditAccountCreator)<sup><i>private</i></sup> and [RedditScraper](https://github.com/hamzaaitbrik/RedditScraper)<sup><i>private</i></sup>
 
 - 📫 How to reach me **aitbrikhamza@gmail.com**
 
@@ -16,6 +16,10 @@
 <p align="center"> <img src='https://skillicons.dev/icons?i=bots,selenium,django,flask,spring,jquery,maven,angular,docker,azure'> </p>
 <p align="center"> <img src='https://skillicons.dev/icons?i=mysql,redis,postgres'> </p>
 
+<br>
+
 <p align="center"><a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=dark&preferLogin=true"><img  alt="hamzaaitbrik's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/hamzaaitbrik?cardType=github&theme=dark&preferLogin=true" /></a></p>
+
+<br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hamzaaitbrik&label=Profile%20views&color=0e75b6&style=flat" alt="hamzaaitbrik" /> </p>
