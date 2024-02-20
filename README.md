@@ -1,8 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Hamza</h1>
 <h3 align="center">A Backend Developer & SysAdmin with a passion for Automation, Cybersecurity and AI/ML.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamzaaitbrik" alt="hamzaaitbrik" /></a> </p>
-
 - 🔭 I’m currently working on [RedditDMBot](https://github.com/hamzaaitbrik/RedditDMBot), [OptimizedRedditAccountCreator](https://github.com/hamzaaitbrik/OptimizedRedditAccountCreator)<sup><i>private</i></sup> and [RedditScraper](https://github.com/hamzaaitbrik/RedditScraper)<sup><i>private</i></sup>
 
 - 📫 Reach me on email: **aitbrikhamza@gmail.com**
