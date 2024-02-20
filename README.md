@@ -15,7 +15,7 @@
 <h3 align="center">Languages, Frameworks and Tools:</h3>
 <p align="center"> <img src='https://skillicons.dev/icons?i=linux,git,py,bash,java,lua,js,cs,html,css'> </p>
 <p align="center"> <img src='https://skillicons.dev/icons?i=bots,selenium,django,flask,jquery,maven,angular,docker,'> </p>
-<p align="center"> <img src='https://skillicons.dev/icons?i=mysql,redis,'> </p>
+<p align="center"> <img src='https://skillicons.dev/icons?i=mysql,redis,postgres'> </p>
 <p align="center"> <img src='https://skillicons.dev/icons?i=azure'> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamzaaitbrik&show_icons=true&locale=en&layout=compact" alt="hamzaaitbrik" /></p>
