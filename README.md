@@ -20,4 +20,4 @@
 
 <br>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=hamzaaitbrik&label=Profile%20views&color=0e75b6&style=flat" alt="hamzaaitbrik" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hamzaaitbrik&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="hamzaaitbrik" /> </p>
