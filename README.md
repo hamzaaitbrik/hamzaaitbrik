@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamzaaitbrik" alt="hamzaaitbrik" /></a> </p>
 
-- 🔭 I’m currently working on [RedditDMBot](https://github.com/hamzaaitbrik/RedditDMBot),[OptimizedRedditAccountCreator](https://github.com/hamzaaitbrik/OptimizedRedditAccountCreator)<sup>PRIVATE</sup> and [RedditScraper](https://github.com/hamzaaitbrik/RedditScraper)<sup>PRIVATE</sup>
+- 🔭 I’m currently working on [RedditDMBot](https://github.com/hamzaaitbrik/RedditDMBot),[OptimizedRedditAccountCreator](https://github.com/hamzaaitbrik/OptimizedRedditAccountCreator)<sup><i>private</i></sup> and [RedditScraper](https://github.com/hamzaaitbrik/RedditScraper)<sup><i>private</i></sup>
 
 - 📫 How to reach me **aitbrikhamza@gmail.com**
 
