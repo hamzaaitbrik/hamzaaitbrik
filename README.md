@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Hamza</h1>
-<h3 align="center">A Backend Developer & SysAdmin with a passion for Automation, Cybersecurity and AI/ML.</h3><br>
+<h3 align="center">A Backend Developer & SysAdmin with a passion for Automation, Cybersecurity and AI/ML.</h3>
 <h3 align="left">Connect with me:</h3>
 <a href="https://discordapp.com/users/586210796766363689" target="_blank"><img src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=ffffff" target="_blank"></a>
 <a href="https://www.linkedin.com/in/hamzaaitbrik" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
