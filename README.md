@@ -13,7 +13,7 @@
 </p>
 
 <h3 align="center">Languages, Frameworks and Tools:</h3>
-<p align="center"> <img src='https://skillicons.dev/icons?i=linux,git,py,bash,java,lua,js,cs,html,css'> </p>
+<p align="center"> <img src='https://skillicons.dev/icons?i=linux,git,vim,py,bash,java,lua,js,cs,html,css'> </p>
 <p align="center"> <img src='https://skillicons.dev/icons?i=bots,selenium,django,flask,spring,jquery,maven,angular,docker'> </p>
 <p align="center"> <img src='https://skillicons.dev/icons?i=mysql,redis,postgres'> </p>
 <p align="center"> <img src='https://skillicons.dev/icons?i=azure'> </p>
