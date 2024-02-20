@@ -16,6 +16,6 @@
 <p align="center"> <img src='https://skillicons.dev/icons?i=bots,selenium,django,flask,spring,jquery,maven,angular,docker,azure'> </p>
 <p align="center"> <img src='https://skillicons.dev/icons?i=mysql,redis,postgres'> </p>
 
-<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=dark&preferLogin=true">    <img  alt="hamzaaitbrik's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/hamzaaitbrik?cardType=github&theme=dark&preferLogin=true" />  </a>
+<p align="center"><a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=dark&preferLogin=true"><img  alt="hamzaaitbrik's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/hamzaaitbrik?cardType=github&theme=dark&preferLogin=true" /></a></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hamzaaitbrik&label=Profile%20views&color=0e75b6&style=flat" alt="hamzaaitbrik" /> </p>
