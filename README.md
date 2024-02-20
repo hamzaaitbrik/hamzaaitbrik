@@ -5,6 +5,10 @@
 <a href="https://www.linkedin.com/in/hamzaaitbrik" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 <br>
+<br>
+<br>
+<br>
+<br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamzaaitbrik" alt="hamzaaitbrik" /></a> </p>
 
