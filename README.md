@@ -11,14 +11,12 @@
 <a href="https://discordapp.com/users/586210796766363689" target="_blank"><img src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=ffffff" target="_blank"></a>
 <a href="https://www.linkedin.com/in/hamzaaitbrik" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-
 <h3 align="center">Languages, Frameworks and Tools:</h3>
 <p align="center"> <img src='https://skillicons.dev/icons?i=linux,git,vim,py,bash,java,lua,js,cs,html,css'> </p>
-<p align="center"> <img src='https://skillicons.dev/icons?i=bots,selenium,django,flask,spring,jquery,maven,angular,docker'> </p>
+<p align="center"> <img src='https://skillicons.dev/icons?i=bots,selenium,django,flask,spring,jquery,maven,angular,docker,azure'> </p>
 <p align="center"> <img src='https://skillicons.dev/icons?i=mysql,redis,postgres'> </p>
-<p align="center"> <img src='https://skillicons.dev/icons?i=azure'> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamzaaitbrik&show_icons=true&locale=en&layout=compact" alt="hamzaaitbrik" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamzaaitbrik&show_icons=true&locale=en&layout=compact" alt="hamzaaitbrik" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamzaaitbrik&show_icons=true&locale=en" alt="hamzaaitbrik" /></p>
 
