@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hamza</h1>
-<h3 align="center">A Backend Developer & SysAdmin from Morocco</h3>
+<h3 align="center">A Backend Developer & SysAdmin with a passion for Automation, Cybersecurity and AI/ML.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzaaitbrik&label=Profile%20views&color=0e75b6&style=flat" alt="hamzaaitbrik" /> </p>
 
