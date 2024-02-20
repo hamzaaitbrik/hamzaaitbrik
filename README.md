@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamzaaitbrik" alt="hamzaaitbrik" /></a> </p>
 
-- 🔭 I’m currently working on [RedditDMBot](www.github.com/hamzaaitbrik/RedditDMBot)
+- 🔭 I’m currently working on [RedditDMBot](https://github.com/hamzaaitbrik/RedditDMBot)
 
 - 📫 How to reach me **aitbrikhamza@gmail.com**
 
