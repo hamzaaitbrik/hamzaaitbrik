@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Hamza</h1>
-<h3 align="center">Reverse Engineer, Automation Engineer & SysAdmin.</h3>
+<h3 align="center">Automation Engineer, Reverse Engineer & SysAdmin.</h3>
 
 - 🔭 I’m currently working on [RedditDMBot](https://github.com/hamzaaitbrik/RedditDMBot), [OptimizedRedditAccountCreator](https://github.com/hamzaaitbrik/OptimizedRedditAccountCreator)<sup><i>private</i></sup> and [RedditScraper](https://github.com/hamzaaitbrik/RedditScraper)<sup><i>private</i></sup>
 
