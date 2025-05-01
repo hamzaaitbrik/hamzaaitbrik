@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Hamza</h1>
 <h3 align="center">Automation Engineer, Reverse Engineer & SysAdmin.</h3>
 
-- 🔭 I’m currently working on [RedditDMBot](https://github.com/hamzaaitbrik/RedditDMBot), [OptimizedRedditAccountCreator](https://github.com/hamzaaitbrik/OptimizedRedditAccountCreator)<sup><i>private</i></sup> and [RedditScraper](https://github.com/hamzaaitbrik/RedditScraper)<sup><i>private</i></sup>
+- 🔭 I’m currently working on [RedditDMBot](https://github.com/hamzaaitbrik/RedditDMBot), [OptimizedRedditAccountCreator](https://github.com/hamzaaitbrik/OptimizedRedditAccountCreator)<sup><i>private software</i></sup>, [RedditScraper](https://github.com/hamzaaitbrik/RedditScraper)<sup><i>private software</i></sup>, and [RedditWarmUp](https://github.com/hamzaaitbrik/RedditWarmUp)<sup><i>private software</i></sup>
 
 - 📫 Reach me on email: **aitbrikhamza@gmail.com**
 
