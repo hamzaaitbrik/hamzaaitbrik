@@ -10,9 +10,9 @@
 <a href="https://www.linkedin.com/in/hamzaaitbrik" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 <h3 align="center">Languages, Frameworks and Tools:</h3>
-<p align="center"> <img src='https://skillicons.dev/icons?i=linux,git,vim,py,bash,java,lua,js,cs,html,css'> </p>
-<p align="center"> <img src='https://skillicons.dev/icons?i=bots,selenium,django,flask,spring,jquery,maven,angular,docker,azure'> </p>
-<p align="center"> <img src='https://skillicons.dev/icons?i=mysql,redis,postgres'> </p>
+<p align="center"> <img src='https://skillicons.dev/icons?i=linux,git,vim,py,bash,java,lua,js'> </p>
+<p align="center"> <img src='https://skillicons.dev/icons?i=bots,selenium,django,flask,docker'> </p>
+<p align="center"> <img src='https://skillicons.dev/icons?i=mongo,redis,mysql,postgres'> </p>
 
 <br>
 
