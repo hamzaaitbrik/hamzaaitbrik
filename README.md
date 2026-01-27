@@ -1,8 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Hamza</h1>
 <h3 align="center">Automation, Reverse Engineering & System Administration.</h3>
 
-- 🔭 I’m currently working at <a href="https://xreacher.com">Xreacher</a>
-
 - 📫 Reach me on email: **aitbrikhamza@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
