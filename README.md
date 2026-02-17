@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Hamza</h1>
-<h3 align="center">Automation, Reverse Engineering & System Administration.</h3>
+<h3 align="center">Backend Engineering, Automation Infrastructure & Distributed Systems.</h3>
 
 - 📫 Reach me on email: **aitbrikhamza@gmail.com**
 
